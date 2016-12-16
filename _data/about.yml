@@ -16,7 +16,7 @@
   image: "3.jpg"
   img-alt: "Five Mobile Wave"
   year: "Sept 2010"
-  text: "My first forray into the mobile world. I knew I wanted to go into mobile development, so wanted to thoroughly understand what end user expectations are on different platforms. At FiveMobile, I ensured quality on many different products on Android, iOS, and BlackBerry handhelds. I even wrote up some build/app distribution scripts to reduce friction for dev -> QA handoff."
+  text: "My first forray into the mobile world. I knew I wanted to go into mobile development, so wanted to thoroughly understand what end user expectations are on different platforms. At FiveMobile, I ensured quality on many different products on Android, iOS, and BlackBerry handhelds. I even wrote up some build/app distribution scripts to reduce friction between dev and QA."
   side: left
 
 - name: "TimelessMIND (acquired by Sony Ericsson) - Mobile/Server Developer"
@@ -44,5 +44,12 @@
   image: "7.jpg"
   img-alt: "Christie Digital Logo"
   year: "Sept 2013"
-  text: "Wrapped up a legacy product (PowerTool), and reduced communication latancy by ~50% for existing lines of Christie projectors controlled by PowerTool. Began early development on some bleeding-edge projector, and spent a good amount of time planning and discussing future architeture for the product and participated in many UX/UI discussions regarding the top-secret project."
+  text: "Wrapped up a legacy product (PowerTool), and reduced communication latency by ~50% for existing lines of Christie projectors controlled by PowerTool.  I also began early development on some bleeding-edge projectors. A lot of time was spent on planning/discussing the future architecture for the product. My contributions were more user-facing, so I was involved in many UX/UI discussions regarding the top-secret project."
   side: left
+
+- name: "Symbility Intersect - Mobile Engineer"
+  image: "8.jpg"
+  img-alt: "Symbility Intersect Logo"
+  year: "July 2014"
+  text: "Some of the big name iOS/Android projects I worked on were Indigo, EdX, LCBO, and Zynga. I always encouraged engineers to try out any new ideas, in hopes of sparking new growth. Albeit risk-prone, I ensured my product leads had ample support from myself and whoever was resourced on a client project. Additionally, my colleagues and I sought out methods and process improvements to ensure fast delivery with quality results."
+  side: right
