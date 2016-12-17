@@ -1,0 +1,16 @@
+---
+title: LCBO
+subtitle: Mobile Refresh
+layout: default
+modal-id: 1
+date: 2016-12-07
+img: lcbo.png
+thumbnail: lcbo-thumbnail.png
+alt: LCBO
+project-date: December 2016
+client: LCBO
+clientURL: http://www.lcbo.com/
+platforms: <a href="https://itunes.apple.com/us/app/lcbo/id442813258">iOS</a> & <a href="https://play.google.com/store/apps/details?id=com.lcbo.lcbo">Android</a>
+description: The existing app was a hybrid app. Our team at Symbility Intersect got down and hammered out a beautiful new experience, from the ground up, in <b>one month</b>. My involvement was spearheading the iOS front, along with guiding the Android team toward success, while maintaining goals and maintaining project expectations with the client. A fun project, built purely in Swift.
+
+---
