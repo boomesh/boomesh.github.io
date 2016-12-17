@@ -6,7 +6,7 @@ modal-id: 2
 date: 2015-08-01
 img: dubsuite.png
 thumbnail: dubsuite-thumbnail.png
-alt: image-alt
+alt: dubsuite
 project-date: August 2015
 client: dubdub
 clientURL: https://dubdub.com/
