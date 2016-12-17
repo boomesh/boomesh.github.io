@@ -1,0 +1,16 @@
+---
+title: Indigo
+subtitle: Mobile Resource
+layout: default
+modal-id: 5
+date: 2014-11-14
+img: indigo.png
+thumbnail: indigo-thumbnail.png
+alt: image-alt
+project-date: November 2014
+client: Indigo
+clientURL: https://www.chapters.indigo.ca
+platforms: <a href="https://itunes.apple.com/us/app/indigo/id718235018">iOS</a>
+description: The Indigo app is a mobile storefront for the Chapters/Indigo stores in Canada. I joined as an iOS resource fairly late into the project, so most of the feature work was complete. My main tasks were prepping the app for the Christmas release, wiping out bugs, and initiating discussions for client-server maintenance. Aside from clean-up, the two biggest features I help establish were PayPal integration and the gift lists functionality.
+
+---

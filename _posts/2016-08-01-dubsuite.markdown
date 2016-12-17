@@ -11,6 +11,6 @@ project-date: August 2015
 client: dubdub
 clientURL: https://dubdub.com/
 platforms: <a href="https://itunes.apple.com/us/app/dubdub/id1061103912">iOS</a>
-description: The product is essentially for power users who need to edit their recorded videos on the fly. The possibilities are endless for users with huge libraries of media available to them. Users can export their final creations to any social service capable of streaming video. As a developer, I faced many challenges such as local playback, storage limitations, and low-bandwidth streaming.
+description: The product is essentially for power users who need to edit their recorded videos on the fly. For users with huge libraries of media available to them, the possibilities for creativity are endless. Users can export their masterpieces to any social service capable of streaming video. As an iOS developer, I faced many challenges such as local playback, storage limitations, and low-bandwidth streaming.
 
 ---
