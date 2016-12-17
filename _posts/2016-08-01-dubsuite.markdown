@@ -1,16 +1,16 @@
 ---
-title: Escape
-subtitle: Website Design
+title: Dubsuite
+subtitle: Product Launch
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+date: 2015-08-01
+img: dubsuite.png
+thumbnail: dubsuite-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-clientURL: http://startbootstrap.com
-platforms: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: August 2015
+client: dubdub
+clientURL: https://dubdub.com/
+platforms: <a href="https://itunes.apple.com/us/app/dubdub/id1061103912">iOS</a>
+description: The product is essentially for power users who need to edit their recorded videos on the fly. The possibilities are endless for users with huge libraries of media available to them. Users can export their final creations to any social service capable of streaming video. As a developer, I faced many challenges such as local playback, storage limitations, and low-bandwidth streaming.
 
 ---
